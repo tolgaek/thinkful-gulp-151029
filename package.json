@@ -1,0 +1,24 @@
+{
+  "name": "thinkful-gulp-151029",
+  "version": "1.0.0",
+  "description": "Workshop code for Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolgaek/thinkful-gulp-151029.git"
+  },
+  "author": "Tolga Ekmen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tolgaek/thinkful-gulp-151029/issues"
+  },
+  "homepage": "https://github.com/tolgaek/thinkful-gulp-151029#readme",
+  "dependencies": {
+    "del": "^2.0.2",
+    "gulp-changed": "^1.3.0",
+    "gulp-imagemin": "^2.3.0"
+  }
+}
